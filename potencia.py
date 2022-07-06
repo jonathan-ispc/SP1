@@ -1,4 +1,5 @@
 # Función potencia: retorna la  retorna la potencia del primero elevado al segundo parámetros
+
 a=int(input("Ingrese un número: "))
 b=int(input("Ingrese la potencia: "))
 
