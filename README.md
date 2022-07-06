@@ -1,2 +1,7 @@
+# CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+
 # Situación Profesional 1
-Jonathan Bustos
+
+# COLABORADOES
+
+ - Jonathan Bustos
