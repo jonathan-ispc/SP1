@@ -2,6 +2,6 @@
 
 # Situación Profesional 1
 
-# COLABORADOES
+# Colaboradores:
 
  - Jonathan Bustos
